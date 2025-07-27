@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Página Portafolio</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <a href="#" class="logo">CarlosKi</a>
+  <nav>
+    <a href="#" class="active">Inicio</a>
+    <a href="#">Servicios</a>
+    <a href="#">Habilidades</a>
+    <a href="#">Educación</a>
+    <a href="#">Experiencia</a>
+    <a href="+34 674835909">Contacto</a>
+  </nav>
+</header>
+<section class="home">
+  <div class="home-img">
+    <img src="foto-mia.jpg" alt="">
+  </div>
+  <div class="home-content">
+    <h1>Hola, soy <span>Carlos</span></h1>
+    <h3 class="typing-text">Soy un<span></span></h3>
+    <p>Soy Carlos, tengo 19 años, nací en Colombia y actualmente vivo en España. He pasado por varios cambios importantes que me han enseñado a adaptarme, a cuestionarme y a crecer. Estoy en proceso de formación, interesado en el mundo digital y el emprendimiento, aprendiendo programación y trabajando en mejorar mis hábitos y disciplina.
+
+Aunque me cuesta socializar y tiendo a ser reservado, soy honesto, curioso y con ganas reales de construir algo propio. Esta página representa mi evolución personal y profesional: un espacio para compartir lo que aprendo, lo que creo y lo que quiero llegar a ser.
+
+</p>
+    <div class="social-icons">
+      <a href="https://www.youtube.com/@carloski2006"><i class="fa-brands fa-youtube"></i></a>
+      <a href="https://www.instagram.com/carloski_06/"><i class="fa-brands fa-instagram"></i></a>
+    </div>
+    <a href="#" class="btn">Contrátame</a>
+  </div>
+</section>
+</body>
+</html>
